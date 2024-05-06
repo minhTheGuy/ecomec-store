@@ -1,0 +1,3 @@
+* Ecomec Store - A Vanila PHP Project
+* This website topic is mainly focus on selling and managing nike's items.
+* Feel free to ask me about the webpage ...
